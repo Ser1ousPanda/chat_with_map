@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:friendly_chat/widgets/pages/chat_page/chat_page.dart';
-import 'package:friendly_chat/widgets/pages/map_page/map_page.dart';
+import 'package:friendly_chat/pages/chat_page/chat_page.dart';
+import 'package:friendly_chat/pages/map_page/map_page.dart';
 
 class MainPage extends StatelessWidget {
   @override

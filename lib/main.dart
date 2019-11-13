@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:friendly_chat/widgets/pages/main_page.dart';
+import 'package:friendly_chat/pages/main_page.dart';
 
 void main() => runApp(MyApp());
 
